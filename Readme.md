@@ -13,7 +13,7 @@
 
 ## **Tecnolgías usadas**
 ![](https://img.shields.io/static/v1?label=Python&message=3.11.6&color=brightgreen)
-![](https://img.shields.io/static/v1?label=Pandas&message=2.0.3&color=brightorange)
+![](https://img.shields.io/static/v1?label=Pandas&message=2.0.3&color=orange)
 ![](https://img.shields.io/static/v1?label=Matplotlib&message=3.7.2&color=blue)
 ![](https://img.shields.io/static/v1?label=Seaborn&message=0.12.2&color=lightgreen)
 ![](https://img.shields.io/static/v1?label=Power+BI&message=Desktop&color=red)

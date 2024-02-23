@@ -23,9 +23,9 @@
 
 
 ## **Links**
-- [Data Original](./https://github.com/MFLopezBello/PI-2.-Siniestros-Viales/tree/main/Data%20Original/)
+- [Data Original](./Data_Original/)
 - [CVS](./CSV/)
-- [Motor SQL](./MotorSQL/)
+- [Motor SQL](./Motor_SQL/)
 - [Sources](./Sources/)
 
   

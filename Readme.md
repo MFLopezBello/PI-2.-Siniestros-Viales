@@ -105,12 +105,12 @@ Por otro lado, el análisis de las variables de las víctimas, como la edad, el 
 
 
 ## Bibliografia 
-[Observatorio de Movilidad y Seguridad Vial](https://buenosaires.gob.ar/movilidad/plan-de-seguridad-vial/observatorio-de-movilidad-y-seguridad-vial)
-[Bases de Víctimas Fatales en Siniestros Viales. Notas para su uso](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf)
-[Data Analytics](https://www.students.soyhenry.com/Bootcamp/modules/14)
-[DBMS, SQL, Estadísticas](https://www.students.soyhenry.com/bootcamp/modules/11)
-[Data Engineer](https://www.students.soyhenry.com/bootcamp/modules/13)
-[KPI's 4 Students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit)
+- [Observatorio de Movilidad y Seguridad Vial](https://buenosaires.gob.ar/movilidad/plan-de-seguridad-vial/observatorio-de-movilidad-y-seguridad-vial)
+- [Bases de Víctimas Fatales en Siniestros Viales. Notas para su uso](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf)
+- [Data Analytics](https://www.students.soyhenry.com/Bootcamp/modules/14)
+- [DBMS, SQL, Estadísticas](https://www.students.soyhenry.com/bootcamp/modules/11)
+- [Data Engineer](https://www.students.soyhenry.com/bootcamp/modules/13)
+- [KPI's 4 Students](https://docs.google.com/document/d/1DI0ZVgHfOfjgnXGhi8jEKzwCIjtUdgRUDe-qiiGGq8E/edit)
 
 
 ## Disclaimer 

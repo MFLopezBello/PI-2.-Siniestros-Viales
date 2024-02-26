@@ -119,15 +119,19 @@ Queremos hacer énfasis en que los proyectos presentados por el equipo de Henry 
 
 ## Contacto
 <div style="display: flex; align-items: center;">
+  
   <a href="https://www.linkedin.com/in/marie-lopez-bello-5818b12a9/" style="margin-right: 10px;">
     <img src="./Sources/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn" width="40" height="40">
   </a>
+  
   <a href="mailto:marielopbel231@gmail.com" style="margin-right: 10px;">
     <img src="./Sources/gmail_new_logo_icon_159149.png" alt="Gmail" width="40" height="40">
   </a>
+  
   <a href="mailto:marielopbe@icloud.com" style="margin-right: 10px;">
     <img src="./Sources/logo_email_apple1366_2000.jpg" alt="Gmail" width="40" height="40">
   </a>
+  
 </div>
 
 

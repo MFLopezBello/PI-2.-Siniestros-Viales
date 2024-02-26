@@ -16,14 +16,10 @@
 - Desarrollo del proyecto
     - EDA
     - Dashboard
-- Desarrollo del proyecto
-    - EDA
-    - Dashboard
-    - Dashboard
 - KPI
-    -Tasa Homicidios
-    -Accidentes Motocicletas
-    -Accidentes Bicicletas
+    - Tasa Homicidios
+    - Accidentes Motocicletas
+    - Accidentes Bicicletas
 - Conclusión
 - Bibliografias
 - Disclaimer

@@ -8,22 +8,22 @@
 
 ## **Tabla de Contenidos**
 
-- [Tecnologias Usadas](#tecnologiasusadas)
-- [Links](#links)
-- [Introducción](#introducción)
-- [Contexto](#contexto)
-- [Descripcción del problema](#descripcciónproblema)
-- [Desarrollo del proyecto](#desarrollodelproyecto)
-    - [EDA](#análisis-exploratorio-eda)
-    - [Dashboard](#dashboard)
-- [KPI](#kpi)
-    -[Tasa Homicidios](#tasahomicidios)
-    -[Accidentes Motocicletas](accidentesmotocicletas)
-    -[Accidentes Bicicletas](accidentesbicicletas)
-- [Conclusión](#conclusión)
-- [Bibliografias](#bibliografias)
-- [Disclaimer](#disclaimer)
-- [Contacto](#contacto)
+- [Tecnologias Usadas]
+- [Links]
+- [Introducción]
+- [Contexto]
+- [Descripcción del problema]
+- [Desarrollo del proyecto]
+    - [EDA]
+    - [Dashboard]
+- [KPI]
+    -[Tasa Homicidios]
+    -[Accidentes Motocicletas]
+    -[Accidentes Bicicletas]
+- [Conclusión]
+- [Bibliografias]
+- [Disclaimer]
+- [Contacto]
 
 
 ## **Tecnolgías usadas**

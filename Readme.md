@@ -9,21 +9,21 @@
 ## **Tabla de Contenidos**
 
 - Tecnologias Usadas
-- [Links]
-- [Introducción]
-- [Contexto]
-- [Descripcción del problema]
-- [Desarrollo del proyecto]
-    - [EDA]
-    - [Dashboard]
-- [KPI]
-    -[Tasa Homicidios]
-    -[Accidentes Motocicletas]
-    -[Accidentes Bicicletas]
-- [Conclusión]
-- [Bibliografias]
-- [Disclaimer]
-- [Contacto]
+- Links
+- Introducción
+- Contexto
+- Descripcción del problema
+- Desarrollo del proyecto
+    - EDA
+    - Dashboard
+- KPI
+    -Tasa Homicidios
+    -Accidentes Motocicletas
+    -Accidentes Bicicletas
+- Conclusión
+- Bibliografias
+- Disclaimer
+- Contacto
 
 
 ## **Tecnolgías usadas**

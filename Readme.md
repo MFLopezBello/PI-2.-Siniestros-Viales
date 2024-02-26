@@ -68,21 +68,39 @@ En el EDA realizaremos un análisis exploratorio de los datos proporcionados, ce
 
 - Búsqueda de Valores Faltantes:
 Comenzamos nuestro análisis exploratorio verificando la presencia de valores faltantes en nuestro conjunto de datos. Utilizamos métodos como isnull() para identificar las celdas con valores faltantes y calculamos el porcentaje de valores faltantes en cada columna.
+
+
 <img  src='./Sources/Null-144943.png' width="700" height="500"></img>
+(Se muestra el filtrado de los null)
 
 - Detección de Registros Duplicados:
 Se verifican los registros duplicados en nuestro conjunto de datos utilizando la función duplicated().
 
 - Identificación de Valores Atípicos (Outliers):
 Se explora la presencia de valores atípicos en nuestras variables numéricas utilizando métodos como el diagrama de caja (boxplot) y el cálculo de los percentiles.
+
+
 <img  src='./Sources/OUTLIERS-144459.png' width="700" height="500"></img>
+(Se ralizo un bloxplot, en el cual nos muestra que hay anomalias en N_VICTIMAS Y Altura)
 
 - Visualización de Datos:
 Utilizamos diferentes tipos de gráficos según la naturaleza de las variables, como histogramas para variables numéricas y gráficos de barras para variables categóricas, con el objetivo de comprender mejor la distribución y la relación entre las variables.
+
+
 <img  src='./Sources/Mapacorrelacion-144731.png' width="700" height="500"></img>
+(Representa las relaciones entre las variables numéricas de tu dataset, que incluye N_VICTIMAS, COMUNA, Altura y MM.)
+
+
 <img  src='./Sources/Edadvic-145206.png' width="700" height="500"></img>
+(Podemos ver la distribucion de los datos con forme a la edad y el sexo de las victimas involucradas)
+
+
 <img  src='./Sources/Numvic-145105.png' width="700" height="500"></img>
+(Se hace un grafico de linea en el cual podemos ver como los numero de victimas aumentan o disminuyen al pasar los años)
+
+
 <img  src='./Sources/Añoinsidencia-144809.png' width="700" height="500"></img>
+(El grafico nos ayuda a ver los años y los meses con mayor insidencia de homicidios. Por lo que podemos determinar)
 
 
 Este EDA constituye un entregable valioso en sí mismo, proporcionando una comprensión sólida de nuestro conjunto de datos y sentando las bases para análisis más avanzados.

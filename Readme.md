@@ -94,20 +94,22 @@ Los filtros permiten explorar detalladamente los datos seleccionando y diferente
 
 
 ## KPI 
-- **'Reducción de la Tasa de Homicidios en Siniestros Viales en CABA:'**El objetivo de esta KPI es reducir en un 10% la tasa de homicidios en siniestros viales durante los últimos seis meses en la Ciudad Autónoma de Buenos Aires (CABA), en comparación con la tasa del semestre anterior.La tasa de homicidios en siniestros viales se define como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
+- 'Reducción de la Tasa de Homicidios en Siniestros Viales en CABA:'
+El objetivo de esta KPI es reducir en un 10% la tasa de homicidios en siniestros viales durante los últimos seis meses en la Ciudad Autónoma de Buenos Aires (CABA), en comparación con la tasa del semestre anterior.La tasa de homicidios en siniestros viales se define como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
 
 Reducir la tasa de homicidios en siniestros viales no solo implica salvar vidas, sino también mejorar la calidad de vida de los habitantes de CABA y promover un entorno vial más seguro y sostenible. Este KPI refleja el compromiso de las autoridades y las organizaciones pertinentes con la protección de los ciudadanos y la reducción de los riesgos asociados con el tráfico vehicular.
 [KPI](https://github.com/MFLopezBello/PI-2.-Siniestros-Viales/blob/main/Siniestro%20Viales%20P2.pbix)
 
 
-- **'Reducción de Accidentes Mortales de Motociclistas en CABA:'**El objetivo de esta KPI es reducir en un 7% la cantidad de accidentes mortales de motociclistas en la Ciudad Autónoma de Buenos Aires (CABA) durante el último año, en comparación con el año anterior.
+- 'Reducción de Accidentes Mortales de Motociclistas en CABA:'
+El objetivo de esta KPI es reducir en un 7% la cantidad de accidentes mortales de motociclistas en la Ciudad Autónoma de Buenos Aires (CABA) durante el último año, en comparación con el año anterior.
 La cantidad de accidentes mortales de motociclistas en siniestros viales se define como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal.
 
 Reducir la cantidad de accidentes mortales de motociclistas no solo contribuye a salvar vidas y prevenir lesiones graves, sino que también tiene un impacto positivo en la percepción de seguridad vial en la ciudad. Este KPI refleja el compromiso de las autoridades y las organizaciones pertinentes con la protección de todos los usuarios de la vía pública, especialmente aquellos que utilizan medios de transporte más vulnerables como las motocicletas.
 [KPI](https://github.com/MFLopezBello/PI-2.-Siniestros-Viales/blob/main/Siniestro%20Viales%20P2.pbix)
 
 
-- **'Reducción de Accidnetes Mortales de Bicicletas en CABA:'**
+- 'Reducción de Accidnetes Mortales de Bicicletas en CABA:'
 El objetivo de esta KPI es reducir en un 20% la cantidad de accidentes mortales de bicicletas en la Ciudad Autónoma de Buenos Aires (CABA) durante el último año, en comparación con el año anterior. La cantidad de accidentes mortales de bicicletas en siniestros viales se define como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en bic en un determinado periodo temporal.
 
 Reducir la cantidad de accidentes mortales de bicicletas no solo contribuye a salvar vidas y prevenir lesiones graves, sino que también tiene un impacto positivo en la percepción de seguridad vial en la ciudad y en contribución al medio ambiente. La protección de todos los usuarios de la vía pública, especialmente aquellos que utilizan medios de transporte más vulnerables como son las bicieltas o los peatones, son los ciudadanos mas vulnerables ya que muchos de los accidentes que sufren no son ocacionados por imprudencia de ellos, si no de otros conductores que no toman las suficientes precauciones al estar en la via publica.

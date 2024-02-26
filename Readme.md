@@ -8,7 +8,7 @@
 
 ## **Tabla de Contenidos**
 
-- [Tecnologias Usadas]
+- Tecnologias Usadas
 - [Links]
 - [Introducción]
 - [Contexto]

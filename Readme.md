@@ -94,8 +94,7 @@ Los filtros permiten explorar detalladamente los datos seleccionando y diferente
 
 
 ## KPI 
-- 'Reducción de la Tasa de Homicidios en Siniestros Viales en CABA:'
-El objetivo de esta KPI es reducir en un 10% la tasa de homicidios en siniestros viales durante los últimos seis meses en la Ciudad Autónoma de Buenos Aires (CABA), en comparación con la tasa del semestre anterior.La tasa de homicidios en siniestros viales se define como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
+- **'Reducción de la Tasa de Homicidios en Siniestros Viales en CABA:'**El objetivo de esta KPI es reducir en un 10% la tasa de homicidios en siniestros viales durante los últimos seis meses en la Ciudad Autónoma de Buenos Aires (CABA), en comparación con la tasa del semestre anterior.La tasa de homicidios en siniestros viales se define como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
 
 Reducir la tasa de homicidios en siniestros viales no solo implica salvar vidas, sino también mejorar la calidad de vida de los habitantes de CABA y promover un entorno vial más seguro y sostenible. Este KPI refleja el compromiso de las autoridades y las organizaciones pertinentes con la protección de los ciudadanos y la reducción de los riesgos asociados con el tráfico vehicular.
 [KPI](https://github.com/MFLopezBello/PI-2.-Siniestros-Viales/blob/main/Siniestro%20Viales%20P2.pbix)

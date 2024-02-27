@@ -46,25 +46,24 @@
 
 
 ## Introducción
-En la vasta red de calles y carreteras de Buenos Aires, los siniestros viales son una preocupación constante. Estos eventos, que van desde colisiones entre vehículos hasta atropellos, representan una amenaza para la seguridad de los residentes y visitantes de la ciudad. La gravedad de este problema se refleja en las estadísticas, que muestran un alto número de víctimas fatales cada año.
-Los mismos constituyen una problemática significativa en Argentina, donde cada año pierden la vida alrededor de 4.000 personas, los cuales tienen un gran impacto en la seguridad de sus habitantes y en la infraestructura vial.
+En la vasta red de calles y carreteras de Buenos Aires, los siniestros viales son una preocupación constante. Estos eventos, que van desde colisiones entre vehículos hasta atropellos, representan una amenaza para la seguridad de los residentes y visitantes de la ciudad. La gravedad de este problema se refleja en las estadísticas, que muestran un alto número de víctimas fatales, donde cada año pierden la vida alrededor de 4.000 personas en promedio.Estos datos reflejan una problemática bastante significativa en Argentina, generando un gran impacto en la seguridad de sus habitantes y en la infraestructura vial.
 
 
 ## Contexto
-El Gobierno de la Ciudad Autónoma de Buenos Aires ha creado el Observatorio de Movilidad y Seguridad Vial (OMSV) con el objetivo de analizar y comprender la situación actual en materia de seguridad vial, así como elaborar informes y reportes relativos a la movilidad en la ciudad. El OMSV se basa en datos policiales y elabora estadísticas sobre siniestros viales, incluyendo lesiones culposas y homicidios culposos. La principal fuente de información sobre siniestros viales con víctimas fatales en la ciudad es la Subsecretaría de Seguridad Comunal e Investigación Criminal del Ministerio de Justicia y Seguridad.
+El Gobierno de la Ciudad Autónoma de Buenos Aires ha creado el Observatorio de Movilidad y Seguridad Vial (OMSV) con el objetivo de analizar y comprender la situación actual en materia de seguridad vial, así como elaborar informes y reportes relativos a la movilidad en la ciudad. El OMSV se basa en datos policiales y elabora estadísticas sobre siniestros viales, incluyendo lesiones y homicidios culposos. La principal fuente de información sobre siniestros viales con víctimas fatales en la ciudad es la Subsecretaría de Seguridad Comunal e Investigación Criminal del Ministerio de Justicia y Seguridad, donde se obtienen los datos con mayor relevancia para el análisis de la problemática.
 
 
 ## Descripcción del Problema 
-El Observatorio de Movilidad y Seguridad Vial de la Ciudad de Buenos Aires ha solicitado la elaboración de un proyecto de análisis de datos para abordar esta problemática. Su objetivo es proporcionar información detallada que permita a las autoridades locales tomar medidas concretas para reducir el número de víctimas fatales en siniestros viales. Para ello, se ha proporcionado un conjunto de datos sobre homicidios en siniestros viales ocurridos en la ciudad durante el período 2016-2021.
+El Observatorio de Movilidad y Seguridad Vial de la Ciudad de Buenos Aires ha solicitado la elaboración de un proyecto de análisis de datos para abordar la incidencia de siniestros viales en el país. El objetivo es proporcionar información detallada que permita a las autoridades locales tomar medidas concretas para reducir el número de víctimas fatales en siniestros viales. Para ello, se ha proporcionado un conjunto de datos sobre homicidios en siniestros viales ocurridos en la ciudad durante el período 2016-2021.
 
-El equipo asignado deberá analizar este conjunto de datos y extraer información relevante que pueda servir como base para la implementación de políticas y acciones preventivas. Además, se espera que el equipo utilice los recursos proporcionados por el Observatorio, como el material de apoyo y los diccionarios de datos, para comprender completamente el contexto y las variables involucradas en los siniestros viales.
+El equipo asignado deberá analizar este conjunto de datos y extraer información relevante que sirva como base para la implementación de políticas y acciones preventivas. Además, se espera que el equipo utilice los recursos proporcionados por el Observatorio, como el material de apoyo y los diccionarios de datos, para comprender completamente el contexto y las variables involucradas en los siniestros viales y se pueda obtener un análisis objetivo de la situación.
 
-En resumen, se espera que el equipo desarrolle un análisis exhaustivo de los datos proporcionados, identifique tendencias y patrones significativos, y formule recomendaciones concretas para mejorar la seguridad vial en la ciudad de Buenos Aires. Este proyecto tiene como objetivo contribuir a la reducción de las tasas de mortalidad relacionadas con siniestros viales y mejorar la calidad de vida de sus habitantes.
+En resumen, se espera que el equipo desarrolle un análisis exhaustivo de los datos proporcionados, identifique tendencias y patrones significativos, y formule recomendaciones concretas para mejorar la seguridad vial en la ciudad de Buenos Aires. Este proyecto tiene como objetivo contribuir a la reducción de las tasas de mortalidad relacionadas con siniestros viales y generar propuestas para mejorar la calidad de vida de sus habitantes.
 
 
 ## Desarrollo del Proyecto
 -**EDA:**  
-En el EDA realizaremos un análisis exploratorio de los datos proporcionados, centrándonos en varios aspectos clave como la búsqueda de valores faltantes, valores atípicos o outliers, registros duplicados y la utilización de gráficos adecuados para la visualización de las diferentes variables.
+En el EDA realizaremos un análisis exploratorio de los datos proporcionados, centrándonos en varios aspectos clave como la búsqueda de valores faltantes, valores atípicos u outliers, registros duplicados y la utilización de gráficos adecuados para la visualización de las diferentes variables.
 
 - Búsqueda de Valores Faltantes:
 Comenzamos nuestro análisis exploratorio verificando la presencia de valores faltantes en nuestro conjunto de datos. Utilizamos métodos como isnull() para identificar las celdas con valores faltantes y calculamos el porcentaje de valores faltantes en cada columna.
@@ -141,9 +140,9 @@ Reducir la cantidad de accidentes mortales de bicicletas no solo contribuye a sa
 
 
 ## Conclusión 
-El análisis de los datos proporcionados se ha permitido identificar patrones y tendencias en los siniestros viales que han resultado en víctimas fatales en la Ciudad de Buenos Aires. A través de la exploración de las variables espaciales, temporales y participantes, se han podido identificar áreas y momentos de mayor riesgo en la ciudad.
+De acuerdo con el análisis de los datos proporcionados, se identificaron patrones y tendencias importantes en los siniestros viales que han resultado en víctimas fatales en la Ciudad de Buenos Aires. A través de la exploración de las variables espaciales, temporales y participantes, se identificaron áreas y momentos con mayor riesgo en la ciudad.
 
-Con ayuda del EDA podemos analizar e inviestigar el conjunto de datos y resumir sus principales caracteristicas, en el cual tambien usamos metodos de visualización de los mismos. Con ayuda de la herramienta Power BI realizamos el analisis de datos, creamos el informe de los mismos con ayuda de graficos interactivos, objetos visuales de interes que nos ayudan a resaltar los puntos mas importntes de la infromación.
+Con ayuda del EDA, se analizó e inviestigó el conjunto de datos obtenido y se resumieron sus principales caracteristicas, en el cual tambien se utilizaron métodos de visualización de los datos. Con ayuda de la herramienta Power BI se realizó el analisis de datos, se creó el informe de los mismos con ayuda de gráficos interactivo y objetos visuales de interés que nos ayudaron a resaltar los puntos más importntes de la infromación.
 
 Por otro lado, el análisis de las variables de las víctimas, como la edad, el sexo y el modo de desplazamiento, ha permitido identificar grupos de población más vulnerables en relación con los siniestros viales. Estos hallazgos pueden ser utilizados para diseñar programas de concientización y prevención dirigidos a estos grupos específicos.
 
